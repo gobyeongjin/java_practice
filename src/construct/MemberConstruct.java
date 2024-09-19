@@ -9,6 +9,7 @@ public class MemberConstruct {
         this.name = name;
         this.age = age;
         this.grade = 50;
+        // this(name,age,50);
     }
 
     MemberConstruct(String name, int age, int grade) {
