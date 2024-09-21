@@ -7,5 +7,9 @@ public class batteryMain {
         for (int i = 0; i < 50; i++) {
             battery1.usebattery();
         }
+        for (int i = 0; i < 90; i++) {
+            battery1.chargebattery();
+        }
+
     }
 }
